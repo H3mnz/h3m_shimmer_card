@@ -17,7 +17,7 @@ A package provides an easy way to add shimmer effect in your Flutter project.
 
 ## Demo
 
-![](demo.gif) 
+![](https://i.postimg.cc/L5DjWHT3/ezgif-5-a4082df08e.gif) 
 
 
 
