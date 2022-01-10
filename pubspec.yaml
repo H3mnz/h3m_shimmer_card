@@ -1,6 +1,6 @@
 name: h3m_shimmer_card
 description: A package provides an easy way to add shimmer effect in your Flutter project.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/H3mnz/h3m_shimmer_card
 
 environment:
