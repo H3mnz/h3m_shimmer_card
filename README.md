@@ -25,7 +25,7 @@ A package provides an easy way to add shimmer effect in your Flutter project.
 
 ```dart
 
-import 'package:h3m_shimmer_card/shimmer_card.dart';
+import 'package:h3m_shimmer_card/h3m_shimmer_card.dart';
 
 ShimmerCard(
     width: 200,
