@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:h3m_shimmer_card/shimmer_card.dart';
+import 'package:h3m_shimmer_card/h3m_shimmer_card.dart';
 
 void main() {
   runApp(const MyApp());
